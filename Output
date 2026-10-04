@@ -1,0 +1,56 @@
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book Room
+3. Cancel Booking
+4. View Booking Records
+5. Exit
+Enter Your Choice: 1
+
+Available Rooms:
+Room No: 101 | Category: Standard
+Room No: 102 | Category: Standard
+Room No: 201 | Category: Deluxe
+Room No: 202 | Category: Deluxe
+Room No: 301 | Category: Suite
+
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book Room
+3. Cancel Booking
+4. View Booking Records
+5. Exit
+Enter Your Choice: 2
+Enter Customer Name: shivanshu
+
+Available Rooms:
+Room No: 101 | Category: Standard
+Room No: 102 | Category: Standard
+Room No: 201 | Category: Deluxe
+Room No: 202 | Category: Deluxe
+Room No: 301 | Category: Suite
+Enter Room Number to Book: 102
+
+Room Booked Successfully!
+Customer: shivanshu
+Room Number: 102
+
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book Room
+3. Cancel Booking
+4. View Booking Records
+5. Exit
+Enter Your Choice: 3
+Enter Room Number to Cancel Booking: 102
+Booking Cancelled Successfully!
+
+===== HOTEL RESERVATION SYSTEM =====
+1. View Available Rooms
+2. Book Room
+3. Cancel Booking
+4. View Booking Records
+5. Exit
+Enter Your Choice: 5
+Thank You!
+
+[Program finished]
